@@ -1,0 +1,66 @@
+body{
+    background-color: antiquewhite;
+
+}
+.box{
+    margin-top: 230px;
+    margin-left: 200px;
+    width: 390px;
+}
+h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: blue;
+}
+/* h2{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+} */
+p{
+    font-size: 25px;
+}
+.container{
+    background-color: white;
+    border-radius: 12px;
+    width: 413px;
+    height: 340px;
+    float: right;
+    margin-right: 250px;
+    /* margin-top: 20px; */
+    margin-top: -18%;
+    box-shadow: 4px 4px 4px 4px wheat;
+    
+}
+.container input{
+    padding: 20px;
+    text-align: center;
+    margin-top: 12px;
+    border-radius: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: left;
+}
+button{
+    font-size: larger;
+    padding: 18px;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+a{
+    font-size: larger;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.bro{
+    font-size: larger;
+    padding: 20px;
+    margin-right: 100px;
+    float: right;
+    background-color: green;
+    color: white;
+}
